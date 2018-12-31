@@ -38,5 +38,9 @@
       "tslint --fix",
       "git add"
     ]
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node"
   }
 }
