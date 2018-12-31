@@ -1,0 +1,19 @@
+{
+  "name": "delphinus-tslint-custom-rules",
+  "version": "0.0.1",
+  "description": "Custom rules for my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delphinus/delphinus-tslint-custom-rules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delphinus/delphinus-tslint-custom-rules/issues"
+  },
+  "homepage": "https://github.com/delphinus/delphinus-tslint-custom-rules#readme"
+}
